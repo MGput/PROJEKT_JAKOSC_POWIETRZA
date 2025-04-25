@@ -31,7 +31,6 @@ Aplikacja desktopowa do monitorowania jakości powietrza na podstawie danych z G
 - `images/` – zasoby graficzne GUI
 - `resources.qrc` – zasób Qt dla plików graficznych
 
-## Autorzy
 
 <sub>Maksym Górny</sub><br>
 <sub>Projekt stworzony w ramach zajęć JPO na Politechnice Poznańskiej.</sub>
