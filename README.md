@@ -33,5 +33,5 @@ Aplikacja desktopowa do monitorowania jakości powietrza na podstawie danych z G
 
 ## Autorzy
 
-<sub>Maksym Górny</sub>
+<sub>Maksym Górny</sub><br>
 <sub>Projekt stworzony w ramach zajęć JPO na Politechnice Poznańskiej.</sub>
